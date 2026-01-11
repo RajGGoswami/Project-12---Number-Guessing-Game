@@ -20,9 +20,9 @@ Lose if all attempts are used
 
 Difficulty levels:
 
-Easy — 10 attempts
+Easy = 10 attempts
 
-Hard — 5 attempts
+Hard = 5 attempts
 
 **Project File Structure**
 
